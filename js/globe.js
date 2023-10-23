@@ -8,7 +8,6 @@
                 : (t._vantaEffect = e());
 })("undefined" != typeof self ? self : this, () =>
     (() => {
-        asd
         "use strict";
         var t = {
             d: (e, s) => {
